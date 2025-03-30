@@ -1,4 +1,4 @@
-**EjerciciosJava**
+# EjerciciosJava
 
 <ins>Ejercicio 1: Cajero</ins>
 
