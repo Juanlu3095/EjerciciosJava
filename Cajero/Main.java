@@ -1,4 +1,18 @@
 
+
+/*
+|----------------------------------------------------------------------------------------
+| Cajero
+|----------------------------------------------------------------------------------------
+|
+| Programa hecho en Java que nos pide un pin para entrar en el sistema. Comprobará que
+| en esta carpeta se halle un archivo "{pin}.txt" donde pin es el dígito a comprobar.
+| A continuación se nos da el saldo actual en el archivo de antes nos da elegir entre 
+| ingresar o retirar dinero de nuestra cuenta, con lo que el programa procederá a leer
+| el archivo y realizará una suma o una resta, dependiendo de la opción que indiquemos.
+| 
+*/
+
 package Cajero;
 
 import java.util.Scanner;
