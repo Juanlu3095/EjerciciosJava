@@ -11,7 +11,7 @@ A continuación el programa debe pedir qué acción realizar:
 <br>
 En consola nos pedirá la cantidad a ingresar o retirar y acto seguido, debe actualizar el saldo en el archivo .txt.
 
-<br><br>
+<br>
 
 <ins>Ejercicio 2: Media, mínimo y máximo</ins>
 
