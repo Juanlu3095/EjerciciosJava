@@ -11,8 +11,6 @@ A continuación el programa debe pedir qué acción realizar:
 <br>
 En consola nos pedirá la cantidad a ingresar o retirar y acto seguido, debe actualizar el saldo en el archivo .txt.
 
-<br>
-
 <ins>Ejercicio 2: Media, mínimo y máximo</ins>
 
 Escribir un programa en Java que pida introducir valores float y guadarlos en un ArrayList hasta escribir un número negativo.
